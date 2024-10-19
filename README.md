@@ -61,6 +61,5 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-Apple for their innovative products and inspiring design philosophy.
-
-[Boxicons](https://boxicons.com/) for the icon library that enhanced the visual elements of the project.
+- Apple for their innovative products and inspiring design philosophy.
+- [Boxicons](https://boxicons.com/) for the icon library that enhanced the visual elements of the project.
