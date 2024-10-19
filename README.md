@@ -13,9 +13,9 @@ features and design with interactive elements. The project includes:
 
 
 ## Technologies Used
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
 
 ## Screenshots
