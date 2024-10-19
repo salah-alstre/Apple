@@ -20,7 +20,7 @@ JavaScript
 
 ## Screenshots
 
-![Image](https://github.com/salah-alstre/Image-Search-Engine/blob/main/assets/ImageSearch.jpg)
+![Image](https://github.com/salah-alstre/Apple/blob/main/Apple.jpg)
 
 
 ## How to Use
