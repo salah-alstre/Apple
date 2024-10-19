@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="./logo.png" type="image/png" />
+    <title>Apple</title>
+    <link rel="stylesheet" href="style.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+</head>
+<body>
+    <section>
+        <div class="circle"></div>
+        <header>
+            <a href="" class="logo">
+                <img src="logo.png" alt="">
+            </a>
+
+            <ul>
+                <li>
+                    <a href="https://www.apple.com/store">Store</a>
+                    <a href="https://www.apple.com/iphone/">Products</a>
+                    <a href="https://www.apple.com/environment/">Vision</a>
+                    <a href="https://www.apple.com/apple-tv-plus/">Entertainment</a>
+                    <a href="https://www.apple.com/shop/accessories/all">Accessories</a>
+
+                    <i class='bx bx-search-alt-2'></i>
+                    <i class='bx bx-shopping-bag' ></i>
+                </li>
+            </ul>
+        </header>
+        <div class="content">
+            <div class="textBox">
+                <h2>iphone 15</h2>
+                <h5>Titanium. So Strong. So Light. Powerful.</h5>
+                <p>New camera. New Design.  Newphoria.</p>
+                <a href="https://www.apple.com/iphone-15/">Learn More</a>
+            </div>
+                <div class="imgBox">
+                    <img src="Black.png"
+                     alt="" class="iphone">
+                </div>
+            </div>
+            <ul class="thumb">
+                <li> <img src="Black.png"
+                     alt=""
+                     onclick="imgSlider('Black.png');
+                     changeCircle('#565554')
+                     "
+                     
+                   > </li>
+                <li> <img src="Blue.png"
+                     alt=""
+                     onclick="imgSlider('Blue.png');
+                     changeCircle('#5B798E')
+                     "
+                     ></li>
+                <li> <img src="Natural.png"
+                     alt=""
+                     onclick="imgSlider('Natural.png');
+                     changeCircle('#878681')
+                     "
+                     ></li>
+                </ul>
+                <ul class="socials">
+                    <li>
+                        <a href="https://www.linkedin.com" target="_blank">
+                            <i class='bx bxl-linkedin-square'></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.github.com" target="_blank">
+                            <i class='bx bxl-github'></i>
+                        </a>
+                    </li>
+                </ul>
+            
+        </div>
+    </section>
+    <script src="function.js"></script>
+</body>
+</html>
