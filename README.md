@@ -25,9 +25,9 @@ features and design with interactive elements. The project includes:
 
 ## How to Use
 
-1.Clone or download the project.
+1. Clone or download the project.
 
-2.Open index.html in your web browser.
+2. Open index.html in your web browser.
 
 
 ## Contributing
